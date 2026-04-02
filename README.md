@@ -1,4 +1,4 @@
-# Systems Programming — Summative Assessment
+# C Programming — Summative Assessment
 
 **Student:** Deng Mayen Deng Akol
 **Course:** Programming in C 
